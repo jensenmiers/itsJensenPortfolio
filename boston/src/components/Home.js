@@ -16,14 +16,12 @@ const Home = () => {
               </h6>
               <h1>
                 We Have <br />
-                Design
+                Software
                 <br />
                 Experience
               </h1>
               <p>
-                I design and develop services for customers of all sizes,
-                specializing in creating stylish, modern websites, web services
-                and online stores.
+                I develop, manage, and operate software products.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">
