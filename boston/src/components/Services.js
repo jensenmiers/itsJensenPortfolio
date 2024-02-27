@@ -3,38 +3,26 @@ import SectionTitle from "./SectionTitle";
 const serviceData = [
   {
     id: 1,
-    name: "Web Design",
+    name: "Web Development",
     icon: "bi bi-phone",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 2,
-    name: "Development",
+    name: "Business Analysis",
     icon: "bi bi-laptop",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 3,
-    name: "SEO Marketing",
+    name: "Project Management",
     icon: "bi bi-triangle",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 4,
-    name: "Web Design",
+    name: "Product Development",
     icon: "bi bi-columns",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  },
-  {
-    id: 5,
-    name: "Development",
-    icon: "bi bi-distribute-vertical",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  },
-  {
-    id: 6,
-    name: "SEO Marketing",
-    icon: "bi bi-globe2",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
 ];
