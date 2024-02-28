@@ -27,13 +27,13 @@ const portfolioData = [
   },
   {
     id: 5,
-    title: "Personal Finance",
+    title: "Personal Finance web app",
     subtitle: "Web/WordPress",
     image: "assets/img/project-5.jpg",
   },
   {
     id: 6,
-    title: "Marketplace",
+    title: "Marketplace web and mobile client",
     subtitle: "Web/WordPress",
     image: "assets/img/project-6.jpg",
   },
