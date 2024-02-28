@@ -3,7 +3,7 @@ import SectionTitle from "./SectionTitle";
 const serviceData = [
   {
     id: 1,
-    name: "Web Development",
+    name: "Software Development",
     icon: "bi bi-phone",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },

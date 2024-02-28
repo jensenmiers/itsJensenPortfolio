@@ -3,37 +3,37 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "Agency Landing page",
+    title: "Play Bookings",
     subtitle: "Web/WordPress",
     image: "assets/img/project-1.jpg",
   },
   {
     id: 2,
-    title: "Agency Landing page",
+    title: "Full Combo Esports",
     subtitle: "Web/WordPress",
     image: "assets/img/project-2.jpg",
   },
   {
     id: 3,
-    title: "Agency Landing page",
+    title: "U.S. National Park Directory",
     subtitle: "Web/WordPress",
     image: "assets/img/project-3.jpg",
   },
   {
     id: 4,
-    title: "Agency Landing page",
+    title: "Enterprise SaaS",
     subtitle: "Web/WordPress",
     image: "assets/img/project-4.jpg",
   },
   {
     id: 5,
-    title: "Agency Landing page",
+    title: "Personal Finance",
     subtitle: "Web/WordPress",
     image: "assets/img/project-5.jpg",
   },
   {
     id: 6,
-    title: "Agency Landing page",
+    title: "Marketplace",
     subtitle: "Web/WordPress",
     image: "assets/img/project-6.jpg",
   },
