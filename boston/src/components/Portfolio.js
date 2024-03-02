@@ -25,18 +25,18 @@ const portfolioData = [
     subtitle: "Web/WordPress",
     image: "assets/img/project-4.jpg",
   },
-  {
-    id: 5,
-    title: "Personal Finance web app",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-5.jpg",
-  },
-  {
-    id: 6,
-    title: "Marketplace web and mobile client",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-6.jpg",
-  },
+  // {
+  //   id: 5,
+  //   title: "Personal Finance web app",
+  //   subtitle: "Web/WordPress",
+  //   image: "assets/img/project-5.jpg",
+  // },
+  // {
+  //   id: 6,
+  //   title: "Marketplace web and mobile client",
+  //   subtitle: "Web/WordPress",
+  //   image: "assets/img/project-6.jpg",
+  // },
 ];
 
 const Portfolio = () => {
