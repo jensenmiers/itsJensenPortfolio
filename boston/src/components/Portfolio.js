@@ -19,12 +19,12 @@ const portfolioData = [
     subtitle: "Web/WordPress",
     image: "assets/img/project-3.jpg",
   },
-  {
-    id: 4,
-    title: "Enterprise SaaS",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-4.jpg",
-  },
+  // {
+  //   id: 4,
+  //   title: "Enterprise SaaS",
+  //   subtitle: "Web/WordPress",
+  //   image: "assets/img/project-4.jpg",
+  // },
   // {
   //   id: 5,
   //   title: "Personal Finance web app",
