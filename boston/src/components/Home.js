@@ -12,7 +12,7 @@ const Home = () => {
           <div className="col-lg-6 pe-xl-5 py-5">
             <div className="home-intro one-page-nav">
               <h6>
-                <span>Hello.</span>
+                <span>Welcome!</span>
               </h6>
               <h1>
                 We Have <br />
@@ -21,7 +21,7 @@ const Home = () => {
                 Experience
               </h1>
               <p>
-                I develop, manage, and operate software products.
+                We develop, manage, and operate all kinds of software.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">

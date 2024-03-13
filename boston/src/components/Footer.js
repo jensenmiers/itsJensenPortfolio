@@ -5,21 +5,21 @@ const Footer = () => {
         <div className="row align-items-center">
           <div className="col-md-6 py-2">
             <div className="nav justify-content-center justify-content-md-start">
-              <a href="#">
+              {/* <a href="#">
                 <i className="fab fa-facebook-f" />
-              </a>
-              <a href="#">
+              </a> */}
+              <a href="https://twitter.com/@itsjensen">
                 <i className="fab fa-twitter" />
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/jensenmiers/">
                 <i className="fab fa-instagram" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/jensenmiers/">
                 <i className="fab fa-linkedin-in" />
               </a>
-              <a href="#">
+              {/* <a href="#">
                 <i className="fab fa-pinterest" />
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="col-md-6 py-2 text-center text-md-end">

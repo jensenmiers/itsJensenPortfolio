@@ -1,37 +1,37 @@
 import SectionTitle from "./SectionTitle";
 
 const skillsData = [
-  { id: 1, name: "HTML", icon: "fab fa-html5" },
-  { id: 2, name: "CSS", icon: "fab fa-css3" },
-  { id: 3, name: "React JS", icon: "fab fa-react" },
-  { id: 4, name: "Angular", icon: "fab fa-angular" },
-  { id: 5, name: "iOs App", icon: "fab fa-apple" },
-  { id: 6, name: "App Dev", icon: "fab fa-android" },
+  { id: 1, name: "Javascript", icon: "fab fa-js" },
+  { id: 2, name: "React JS", icon: "fab fa-react" },
+  { id: 3, name: "Angular", icon: "fab fa-angular"},
+  { id: 4, name: "SQL", icon: "fas fa-database" },
+  { id: 5, name: "Ruby on Rails", icon: "fas fa-gem" },
+  { id: 6, name: "Nest.js", icon: "fab fa-node" },
 ];
 const experiencesData = [
   {
     id: 1,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Jun 2023 - Present",
+    designation: "Project Manager",
+    company: "StateFilings.com, California",
   },
   {
     id: 2,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Dec 2022 - Present",
+    designation: "Software Developer",
+    company: "Freelance",
   },
   {
     id: 3,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Jan 2019 - Dec 2022",
+    designation: "Head of Business Ops",
+    company: "Full Combo Esports, California",
   },
   {
     id: 4,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Aug 2017 - Jan 2019",
+    designation: "Business Analyst",
+    company: "Cognizant, New York",
   },
 ];
 const Skill = () => {
@@ -41,15 +41,15 @@ const Skill = () => {
         <div className="row">
           <div className="col-lg-6">
             <SectionTitle
-              heading={"Skills and  Experience"}
-              subHeading={"Experience"}
+              heading={"A Trusted Advisor"}
+              subHeading={"My Background"}
               text={
-                "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services and online stores."
+                "We design and develop software, specializing in stylish, modern, simplistic websites, web services and online stores."
               }
             />
 
             <div className="skill-box">
-              <h3>My Skills</h3>
+              <h3>My Technologies</h3>
               <div className="row g-3">
                 {skillsData.map((skill) => (
                   <div className="col-6 col-md-4 col-lg-6" key={skill.id}>
@@ -66,7 +66,7 @@ const Skill = () => {
           </div>
           <div className="col-lg-6 col-xl-5 ms-auto pt-5 pt-lg-0">
             <div className="experience-box">
-              <h3>Experience</h3>
+              <h3>My Experience</h3>
               <ul>
                 {experiencesData.map((experience) => (
                   <li key={experience.id}>
