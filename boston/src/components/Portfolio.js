@@ -21,7 +21,7 @@ const portfolioData = [
   },
   // {
   //   id: 4,
-  //   title: "Enterprise SaaS",
+  //   title: "Enterprise SaaS. Nonprofit SaaS. Marketplace web and mobile client",
   //   subtitle: "Web/WordPress",
   //   image: "assets/img/project-4.jpg",
   // },
@@ -33,7 +33,7 @@ const portfolioData = [
   // },
   // {
   //   id: 6,
-  //   title: "Marketplace web and mobile client",
+  //   title: "IoT device that mutes audio output when commercials sensed. Every X second, record a clip of audio and analyze in ai if its a commerical or not.",
   //   subtitle: "Web/WordPress",
   //   image: "assets/img/project-6.jpg",
   // },
