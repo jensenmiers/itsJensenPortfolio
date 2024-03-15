@@ -5,25 +5,25 @@ const serviceData = [
     id: 1,
     name: "Software Development",
     icon: "bi bi-phone",
-    desc: "Transforming your vision into efficient software solutions. Our dedicated team crafts seamless applications tailored for robust performance and scalability, ensuring your technology propels you ahead of the curve.",
+    desc: "We transform your vision into efficient software solutions. Our dedicated team crafts seamless applications tailored for robust performance and usability, ensuring your technology propels you ahead of your competition.",
   },
   {
     id: 2,
     name: "Business Analysis",
     icon: "bi bi-laptop",
-    desc: "Unlock the potential of your business with in-depth analysis. We delve into the core of your operations to streamline processes, identify growth opportunities, and drive decision-making that fosters sustainable success.",
+    desc: "What you measure matters. Steer your business and unlock its best with innovative fresh eyes. We dive deep into your operations to streamline, identify growth, and drive decision-making that builds sustainable success.",
   },
   {
     id: 3,
     name: "Project Management",
     icon: "bi bi-columns",
-    desc: "Navigating the complexities of stakeholder dynamics, our project management service ensures that every voice is heard and integrated into a seamless plan. With a focus on collaboration and clear communication, we guide your project to success through meticulous oversight and a dedication to meeting your business objectives on time and within budget.",
+    desc: "Navigating big projects and teams can be a nightmare, You can 'plan your work and work your plan' but who's there when tasks inevitably go wrong? Communication is critical. Just hand the reins to our project managers.",
   },
   {
     id: 4,
-    name: "Product Development",
+    name: "Product Design",
     icon: "bi bi-triangle",
-    desc: "From concept to market-ready, we bring products to life. Our innovative approach melds design and functionality, ensuring your offering stands out in the marketplace and delivers exceptional user experiences.",
+    desc: "From concept to deployment, we bring products to life. Our passionate approach melds design aesthetic and functionality, ensuring your product stands out in the marketplace and delivers exceptional performance and user experience.",
   },
 ];
 const Services = () => {

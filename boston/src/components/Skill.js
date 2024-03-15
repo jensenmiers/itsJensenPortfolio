@@ -41,10 +41,10 @@ const Skill = () => {
         <div className="row">
           <div className="col-lg-6">
             <SectionTitle
-              heading={"A Trusted Advisor"}
+              heading={"About Me"}
               subHeading={"My Background"}
               text={
-                "We design and develop software, specializing in stylish, modern, simplistic websites, web services and online stores."
+                "I design and develop software with my foundational business background. I live, breathe, and eat technology & business."
               }
             />
 
