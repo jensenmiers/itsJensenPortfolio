@@ -3,7 +3,7 @@ import { useState } from "react";
 import SectionTitle from "./SectionTitle";
 
 const contactInfo = [
-  { id: 1, label: "Phone", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
+  { id: 1, label: "Cell", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
   {
     id: 2,
     label: "Mail",
@@ -68,7 +68,7 @@ const Contact = () => {
     <section id="contactus" className="section contactus-section bg-gray">
       <div className="container">
         <SectionTitle
-          heading={"Let's Discuss Project"}
+          heading={"Let's Chat"}
           subHeading={"Contact"}
         />
         <div className="row">
@@ -76,7 +76,7 @@ const Contact = () => {
             <div className="contact-form">
               <h6>Get in touch</h6>
               <p className="lead">
-                Our friendly team would love to hear from you.
+                We'd love to hear from you.
               </p>
               <form id="contact-form" onSubmit={(e) => onSubmit(e)}>
                 <div className="row gx-3 gy-4">
