@@ -18,6 +18,7 @@ const portfolioData = [
     title: "U.S. National Park Directory",
     subtitle: "Web App/React/Rails",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
+    //url = 
   },
   // {
   //   id: 4,
