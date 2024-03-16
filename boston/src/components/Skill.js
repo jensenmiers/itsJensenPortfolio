@@ -44,7 +44,7 @@ const Skill = () => {
               heading={"About Me"}
               subHeading={"My Background"}
               text={
-                "I design and develop software with my foundational business background. I live, breathe, and eat technology & business."
+                "I design and develop software with my foundational business background. I live and breathe technology & business."
               }
             />
 
@@ -98,7 +98,7 @@ const Skill = () => {
                 <img src="assets/img/avatar.png" alt="image" />
               </div>
               <a className="px-btn px-btn-theme2" href="#contactus">
-                Hire me{" "}
+                Chat with me{" "}
               </a>
             </div>
           </div>

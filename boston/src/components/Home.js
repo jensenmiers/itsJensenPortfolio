@@ -15,8 +15,9 @@ const Home = () => {
                 <span>Welcome!</span>
               </h6>
               <h1>
-                Software & Business <br />
-                Services
+              
+              I'm Jensen
+                
                 <br />
                 
               </h1>

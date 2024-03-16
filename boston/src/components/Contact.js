@@ -13,7 +13,7 @@ const contactInfo = [
   {
     id: 3,
     label: "Visit My Studio",
-    value: "312 Arizona Ave, Santa Monica, CA 90401",
+    value: "814 Broadway Street, Santa Monica, CA 90401",
     icon: "fas fa-map-marker-alt",
   },
 ];

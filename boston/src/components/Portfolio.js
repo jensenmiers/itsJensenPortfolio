@@ -4,19 +4,19 @@ const portfolioData = [
   {
     id: 1,
     title: "Play Bookings",
-    subtitle: "Web App/Angular/Nest.js",
+    subtitle: "Web App with Angular & Nest.js",
     image: "assets/img/project-1.jpg",
   },
   {
     id: 2,
     title: "Full Combo Esports",
-    subtitle: "Web/Webflow",
+    subtitle: "Website with Webflow",
     image: "assets/img/project-2.jpg",
   },
   {
     id: 3,
     title: "U.S. National Park Directory",
-    subtitle: "Web App/React/Rails",
+    subtitle: "Web App with ReactJS & Ruby on Rails",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
     //url = 
   },

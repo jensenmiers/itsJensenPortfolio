@@ -25,12 +25,24 @@ const serviceData = [
     icon: "bi bi-triangle",
     desc: "From concept to deployment, we bring products to life. Our passionate approach melds design aesthetic and functionality, ensuring your product stands out in the marketplace and delivers exceptional performance and user experience.",
   },
+  {
+    id: 5,
+    name: "Financial Planning & Analysis",
+    icon: "bi bi-money",
+    desc: "Empower your financial strategy with analysis and planning. By understanding your fiscal landscape, you can optimize expenses and boost growth, crafting a path to financial resilience and sustainability.",
+  },
+  {
+    id: 6,
+    name: "Vendor Analysis",
+    icon: "bi bi-money",
+    desc: "Modern business forces you to navigate all your endless software options. Hand off the research and see what off-the-shelf technology we can find to unlock your fullest potential. Don't let the fear of change leave you behind. Find solutions fast.",
+  },
 ];
 const Services = () => {
   return (
     <section id="services" className="section services-section bg-gray">
       <div className="container">
-        <SectionTitle heading={"Services We Offer"} subHeading={"Services"} />
+        <SectionTitle heading={"Services I Offer"} subHeading={"Services"} />
         <div className="row gy-4">
           {serviceData.map((service) => (
             <div className="col-sm-6 col-lg-4" key={service.id}>
