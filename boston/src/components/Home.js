@@ -15,13 +15,13 @@ const Home = () => {
                 <span>Welcome!</span>
               </h6>
               <h1>
-                We Have <br />
-                Software
+                Software & Business <br />
+                Services
                 <br />
-                Experience
+                
               </h1>
               <p>
-                We develop, manage, and operate all kinds of software.
+                I develop, manage, and operate all kinds of software.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">

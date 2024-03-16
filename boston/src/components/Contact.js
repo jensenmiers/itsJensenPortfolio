@@ -6,7 +6,7 @@ const contactInfo = [
   { id: 1, label: "Cell", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
   {
     id: 2,
-    label: "Mail",
+    label: "Email",
     value: "jensenmiers@gmail.com",
     icon: "fas fa-envelope",
   },
