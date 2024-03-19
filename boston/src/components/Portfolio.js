@@ -3,7 +3,7 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "Play Bookings",
+    title: "Play Bookings reservation software",
     subtitle: "Web App with Angular & Nest.js",
     image: "assets/img/project-1.jpg",
   },
