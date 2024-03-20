@@ -10,7 +10,7 @@ const portfolioData = [
   {
     id: 2,
     title: "Full Combo Esports",
-    subtitle: "Website with Webflow",
+    subtitle: "Website Built with Webflow for a Client-Managed Application",
     image: "assets/img/project-2.jpg",
   },
   {
