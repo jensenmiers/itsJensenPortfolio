@@ -95,7 +95,7 @@ const Skill = () => {
                 />
               </span>
               <div className="avatar">
-                <img src="assets/img/avatar.png" alt="image" />
+                <img src="assets/img/jensenavatar.png" alt="image" />
               </div>
               <a className="px-btn px-btn-theme2" href="#contactus">
                 Chat with me{" "}

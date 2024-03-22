@@ -11,12 +11,12 @@ const Home = () => {
         <div className="row min-vh-100 align-items-center">
           <div className="col-lg-6 pe-xl-5 py-5">
             <div className="home-intro one-page-nav">
-              <h6>
+              <h4>
                 <span>Welcome!</span>
-              </h6>
+              </h4>
               <h1>
               
-              I'm Jensen
+              I'm Jensen.
                 
                 <br />
                 

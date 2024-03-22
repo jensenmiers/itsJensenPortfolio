@@ -11,10 +11,10 @@ export default function Document() {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <meta name="keywords" content="Boston - Portfolio Template" />
-        <meta name="description" content="Boston - Portfolio Template" />
+        <meta name="keywords" content="Jensen - Software Solutions" />
+        <meta name="description" content="Jensen - Software Solutions" />
         {/* title */}
-        <title>Jensen - Software Solutions</title>
+        <title>Jensen</title>
         {/* Favicon */}
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
         {/* theme css */}

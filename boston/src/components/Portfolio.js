@@ -3,14 +3,14 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "Play Bookings reservation software",
+    title: "Coming soon...",
     subtitle: "Web App with Angular & Nest.js",
     image: "assets/img/project-1.jpg",
   },
   {
     id: 2,
-    title: "Full Combo Esports",
-    subtitle: "Website Built with Webflow for a Client-Managed Application",
+    title: "Coming soon...",
+    subtitle: "Rent vs Mortgage Calculator",
     image: "assets/img/project-2.jpg",
   },
   {
