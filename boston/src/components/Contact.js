@@ -36,17 +36,16 @@ const Contact = () => {
     if (
       name.length === 0 ||
       email.length === 0 ||
-      message.length === 0 ||
-      subject.length === 0
+      message.length === 0
     ) {
       setError(true);
     } else {
       emailjs
         .send(
-          "service_seruhwu", // service id
-          "template_21aw58z", // template id
+          "service_wkygnrg", // service id
+          "template_3yl0ijr", // template id
           mailData,
-          "Q3pccdLZhU-mZT7tQ" // public api
+          "PH_Xi0-TzVbJ40EK9" // public api
         )
         .then(
           (response) => {
@@ -55,7 +54,9 @@ const Contact = () => {
             setTimeout(() => {
               setSuccess(false);
             }, 3000);
-            setMailData({ name: "", email: "", message: "", subject: "" });
+            setMailData({ name: "", email: "", message: ""
+            // , subject: ""
+           });
           },
           (err) => {
             console.log(err.text);
@@ -76,13 +77,13 @@ const Contact = () => {
             <div className="contact-form">
               <h6>Get in touch</h6>
               <p className="lead">
-                We'd love to hear from you.
+                I'd love to hear from you.
               </p>
               <form id="contact-form" onSubmit={(e) => onSubmit(e)}>
                 <div className="row gx-3 gy-4">
                   <div className="col-md-6">
                     <div className="form-group">
-                      <label className="form-label">First name</label>
+                      <label className="form-label">Name</label>
                       <input
                         name="name"
                         onChange={(e) => onChange(e)}
@@ -112,7 +113,7 @@ const Contact = () => {
                       />
                     </div>
                   </div>
-                  <div className="col-12">
+                  {/* <div className="col-12">
                     <div className="form-group">
                       <label className="form-label">Subject</label>
                       <input
@@ -127,7 +128,7 @@ const Contact = () => {
                         type="text"
                       />
                     </div>
-                  </div>
+                  </div> */}
                   <div className="col-md-12">
                     <div className="form-group">
                       <label className="form-label">Your message</label>
