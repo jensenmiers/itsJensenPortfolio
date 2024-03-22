@@ -181,9 +181,9 @@ const Contact = () => {
                 </li>
               ))}
             </ul>
-            <div className="text-center pt-5">
+            {/* <div className="text-center pt-5">
               <img src="assets/img/contact.svg" className="svg" alt="image" />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
