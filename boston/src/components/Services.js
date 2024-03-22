@@ -5,7 +5,7 @@ const serviceData = [
     id: 1,
     name: "Software Development",
     icon: "bi bi-phone",
-    desc: "I turn ideas into top-notch software. I build smooth, high-performing apps that put you ahead of competititors.",
+    desc: "I turn ideas into elegant software. I build smooth, high-performing apps your users will love, by focusing on core essentials.",
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const serviceData = [
     id: 6,
     name: "Product Design",
     icon: "bi bi-money",
-    desc: "I realize your vision from concept to launch, merging aesthetic with functionality.",
+    desc: "I realize your vision from concept to launch, merging aesthetic with functionality, while focusing only on the essential.",
   },
 ];
 const Services = () => {
