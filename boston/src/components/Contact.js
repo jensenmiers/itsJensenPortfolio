@@ -7,13 +7,13 @@ const contactInfo = [
   {
     id: 2,
     label: "Email",
-    value: "J@itsJensen.com",
+    value: "Jensen@itsJensen.com",
     icon: "fas fa-envelope",
   },
   {
     id: 3,
-    label: "Visit My Studio",
-    value: "814 Broadway Street, Santa Monica, CA 90401",
+    label: "Visit My Space",
+    value: "525 Santa Monica Blvd, Santa Monica, CA 90401",
     icon: "fas fa-map-marker-alt",
   },
 ];
