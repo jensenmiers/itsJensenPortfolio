@@ -7,7 +7,7 @@ const contactInfo = [
   {
     id: 2,
     label: "Email",
-    value: "Jensen@itsJensen.com",
+    value: "hi@itsjensen.com",
     icon: "fas fa-envelope",
   },
   {
