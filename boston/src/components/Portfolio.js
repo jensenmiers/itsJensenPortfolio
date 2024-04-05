@@ -3,9 +3,10 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "Coming soon...",
-    subtitle: "",
-    image: "assets/img/project-1.jpg",
+    title: "U.S. National Park Directory",
+    subtitle: "Single-page App - ReactJS",
+    image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
+    url: "nationalparks-self.vercel.app",
   },
   {
     id: 2,
@@ -15,10 +16,9 @@ const portfolioData = [
   },
   {
     id: 3,
-    title: "U.S. National Park Directory",
-    subtitle: "Single-page App - ReactJS",
-    image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
-    url: "nationalparks-self.vercel.app",
+    title: "Coming soon...",
+    subtitle: "",
+    image: "assets/img/project-1.jpg",
   },
   // {
   //   id: 4,
@@ -61,9 +61,9 @@ const Portfolio = () => {
                     <i className="fas fa-arrow-right" />
                   </a>
                 </div>
-                <div className="portfolio-info">
+                {/* <div className="portfolio-info"> */}
                   {/* Make the title a clickable link if a URL is provided */}
-                  <h6>
+                  {/* <h6>
                     {portfolio.url ? (
                       <a href={portfolio.url} target="_blank" rel="noopener noreferrer">
                         {portfolio.title}
@@ -71,9 +71,8 @@ const Portfolio = () => {
                     ) : (
                       portfolio.title
                     )}
-                  </h6>
-                  <span>{portfolio.subtitle}</span>
-                </div>
+                  </h6> */}
+                {/* </div> */}
               </div>
             </div>
           ))}
