@@ -4,7 +4,7 @@ const portfolioData = [
   {
     id: 1,
     title: "U.S. National Park Directory",
-    subtitle: "Single-page App - ReactJS",
+    subtitle: "Single page app - ReactJS",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
     url: "nationalparks-self.vercel.app",
   },
@@ -57,22 +57,10 @@ const Portfolio = () => {
                 <div className="portfolio-info">
                   <h6>{portfolio.title}</h6>
                   <span>{portfolio.subtitle}</span>
-                  <a href={portfolio.image} className="gallery-link">
+                  <a href={portfolio.url} className="gallery-link">
                     <i className="fas fa-arrow-right" />
                   </a>
                 </div>
-                {/* <div className="portfolio-info"> */}
-                  {/* Make the title a clickable link if a URL is provided */}
-                  {/* <h6>
-                    {portfolio.url ? (
-                      <a href={portfolio.url} target="_blank" rel="noopener noreferrer">
-                        {portfolio.title}
-                      </a>
-                    ) : (
-                      portfolio.title
-                    )}
-                  </h6> */}
-                {/* </div> */}
               </div>
             </div>
           ))}
