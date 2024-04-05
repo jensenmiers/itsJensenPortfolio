@@ -4,21 +4,21 @@ const portfolioData = [
   {
     id: 1,
     title: "Coming soon...",
-    subtitle: "Web App with Angular & Nest.js",
+    subtitle: "",
     image: "assets/img/project-1.jpg",
   },
   {
     id: 2,
     title: "Coming soon...",
-    subtitle: "Rent vs Mortgage Calculator",
+    subtitle: "",
     image: "assets/img/project-2.jpg",
   },
   {
     id: 3,
     title: "U.S. National Park Directory",
-    subtitle: "Web App with ReactJS & Ruby on Rails",
+    subtitle: "Single-page App - ReactJS",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
-    //url = 
+    url: "nationalparks-self.vercel.app",
   },
   // {
   //   id: 4,
@@ -60,6 +60,19 @@ const Portfolio = () => {
                   <a href={portfolio.image} className="gallery-link">
                     <i className="fas fa-arrow-right" />
                   </a>
+                </div>
+                <div className="portfolio-info">
+                  {/* Make the title a clickable link if a URL is provided */}
+                  <h6>
+                    {portfolio.url ? (
+                      <a href={portfolio.url} target="_blank" rel="noopener noreferrer">
+                        {portfolio.title}
+                      </a>
+                    ) : (
+                      portfolio.title
+                    )}
+                  </h6>
+                  <span>{portfolio.subtitle}</span>
                 </div>
               </div>
             </div>
