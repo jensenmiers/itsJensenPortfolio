@@ -6,7 +6,7 @@ const portfolioData = [
     title: "U.S. National Park Directory",
     subtitle: "Single page app - ReactJS",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
-    url: "nationalparks-self.vercel.app",
+    url: "https://nationalparks-self.vercel.app",
   },
   {
     id: 2,
