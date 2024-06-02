@@ -24,3 +24,10 @@
 // I'm dedicated to React and pursing this through Mimo's beginner foundations and then Code Signal to nail my skills for interviews.
 // This is my personal website that should also have dark mode and this blog tab that also posts when I work out from strava.
 // Accountability and daily check ins empower me. This method is really helpfeul here for just moving the needle brick by brick.
+
+// Sun Jun 2
+// Fantastic date night last night with Madison. We went to Mozza and started the night with a drink at Gigi's. 
+// Just a great intimate night.
+// This morning I'm trying to get a quick workout in before the big day of planning. 
+// Need to bike to Weschester and have an important early morning tomorrow so I better be well rested and prepared.
+// My new boss seems like he enojoys his power. 
