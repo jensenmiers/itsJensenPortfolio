@@ -17,3 +17,10 @@
 // just a strength you gott learn with time and find the ease and grace to sit through it.
 // Each day though is about striving for a tad bit more of tangible work and uncomfortable situations.
 // Tomorrow ill be sure to remind myself that the interday battle is always there.
+
+// Sat Jun 1
+// Here on my laptop for the 3rd day in the row feeling proud of my routine fitting into my day regardless of activity. 
+// I'm still battling binges and weed cravings, but I know this is a day by day battle I just need to ride the waves of. 
+// I'm dedicated to React and pursing this through Mimo's beginner foundations and then Code Signal to nail my skills for interviews.
+// This is my personal website that should also have dark mode and this blog tab that also posts when I work out from strava.
+// Accountability and daily check ins empower me. This method is really helpfeul here for just moving the needle brick by brick.
