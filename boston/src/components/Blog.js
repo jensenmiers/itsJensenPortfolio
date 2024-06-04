@@ -31,3 +31,6 @@
 // This morning I'm trying to get a quick workout in before the big day of planning. 
 // Need to bike to Weschester and have an important early morning tomorrow so I better be well rested and prepared.
 // My new boss seems like he enojoys his power. 
+
+// Mon Jun 3
+// Im exhausted. Dont wait to do this. Get your desired tasks done first thing.
