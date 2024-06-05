@@ -34,3 +34,8 @@
 
 // Mon Jun 3
 // Im exhausted. Dont wait to do this. Get your desired tasks done first thing.
+
+// Tue Jun 4
+// Another day I left this to the very end. I'm in bed, eat 1000 cals via orgain and did hot yoga and lots of walking.
+// I did vape a bunch which needs to be fixed.
+// Javascreipt is my jam
