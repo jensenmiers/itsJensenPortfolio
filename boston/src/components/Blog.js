@@ -39,3 +39,6 @@
 // Another day I left this to the very end. I'm in bed, eat 1000 cals via orgain and did hot yoga and lots of walking.
 // I did vape a bunch which needs to be fixed.
 // Javascreipt is my jam
+
+// Wed Jun 5
+// Drunk tonight and left this for too late once again.
