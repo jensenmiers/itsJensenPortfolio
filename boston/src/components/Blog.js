@@ -42,3 +42,6 @@
 
 // Wed Jun 5
 // Drunk tonight and left this for too late once again.
+
+// Thu Jun 6
+// Its the day before i bend the knee. And the first day of nba finals. 
