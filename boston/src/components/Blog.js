@@ -45,3 +45,10 @@
 
 // Thu Jun 6
 // Its the day before i bend the knee. And the first day of nba finals. 
+
+// Fri Jun 7
+// Today is engagement day and I'm stoked the day is here finally.
+// In san diego up early, not sure what to do with myself.
+// Maybe go for a slow jog to a park with some pull up bars.
+// I dont have the money nor want to spend it to go to the local gym
+
