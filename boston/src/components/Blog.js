@@ -44,11 +44,16 @@
 // Drunk tonight and left this for too late once again.
 
 // Thu Jun 6
-// Its the day before i bend the knee. And the first day of nba finals. 
+// Its the day before i bend the knee. And the first day of nba finals.
 
 // Fri Jun 7
 // Today is engagement day and I'm stoked the day is here finally.
 // In san diego up early, not sure what to do with myself.
 // Maybe go for a slow jog to a park with some pull up bars.
-// I dont have the money nor want to spend it to go to the local gym
+// I dont have the money nor want to spend it to go to the local gym.
 
+// Tue Jun 11
+// Its been a few long social days of family friends and celebration. Booze, little sleep,
+// Intense convo and envirograting topics keeping me up at night.
+// I've found solice in getting back to the regular routine of shopping wood and carrying water.
+// Wait, don't retreat to story, pause, deep breath.
