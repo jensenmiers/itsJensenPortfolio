@@ -57,3 +57,7 @@
 // Intense convo and envirograting topics keeping me up at night.
 // I've found solice in getting back to the regular routine of shopping wood and carrying water.
 // Wait, don't retreat to story, pause, deep breath.
+
+// Thu Jun 13
+// Today was a medley of highs and lows. Binge, vape, workout.
+// Now Im trying to get intiimate.
