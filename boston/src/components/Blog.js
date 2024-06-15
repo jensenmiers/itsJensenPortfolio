@@ -61,3 +61,12 @@
 // Thu Jun 13
 // Today was a medley of highs and lows. Binge, vape, workout.
 // Now Im trying to get intiimate.
+
+// Fri Jun 14
+// Ive been working on been consistency like no other. Writing everyday. Trying to code.
+// Nailing my systems so I can let the rest do the talking. I want to be about it, not talk
+// about it. That means being actionable in the identity you'd like to have. Showing up daily
+// to the mat, to the keyboard, to the writing journal, to the court, is where you find your
+// humanity. You realize we ebb and flow and the best we can do is show up and see what
+// we're capable of. Just keep trying brother!
+
