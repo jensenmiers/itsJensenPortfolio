@@ -70,3 +70,9 @@
 // humanity. You realize we ebb and flow and the best we can do is show up and see what
 // we're capable of. Just keep trying brother!
 
+// Sat Jun 15
+// Early strong start to my day here in Arrowhead. A nice long walk to start the day. And now a day of relaxtion.
+// I got my tough efforts in with coding and journaling and meditating and excerising. Now its time to calm down.
+// Theres lots of options in how to relax today. I just need to learn to just be and find solum in peace and slow.
+// Articulating your thoughts makes your vision so much clearer and focused. Just getting the damn junk out
+// of my head invirogates me to perform.
