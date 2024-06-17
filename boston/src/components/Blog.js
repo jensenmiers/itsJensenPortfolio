@@ -76,3 +76,9 @@
 // Theres lots of options in how to relax today. I just need to learn to just be and find solum in peace and slow.
 // Articulating your thoughts makes your vision so much clearer and focused. Just getting the damn junk out
 // of my head invirogates me to perform.
+
+// Sun Jun 16
+// Today was a beautiful day here on the lake. My parents met us here in Lake Arrowhead. I have somewhat of
+// Sunday scaries going into a work week that feels slow and light. We will be driving home tonight after a nice
+// fathers day dinner. Ive really been craving though. I don't really know what all these feelings are.
+
