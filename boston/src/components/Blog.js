@@ -82,3 +82,9 @@
 // Sunday scaries going into a work week that feels slow and light. We will be driving home tonight after a nice
 // fathers day dinner. Ive really been craving though. I don't really know what all these feelings are.
 
+// Mon Jun 17
+// Today I got confronted about not using my laptop enough on Friday's day of work. It's good accountability, but
+// fairly crazy oversight. I need to work harder. And this was a great gut check. I also had a great lunch with Tigran
+// and a honest heart to heart. He advised an account executive role. I also had a great training session on
+// functional patterns.
+
