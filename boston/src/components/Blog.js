@@ -88,3 +88,10 @@
 // and a honest heart to heart. He advised an account executive role. I also had a great training session on
 // functional patterns.
 
+// Tue Jun 18
+// Another day of work and I am a bit more comfortable in my new role learning insurance op details. It's a reminder to
+// trust the process. Im feeling alright after functional patterns-I went to Y7 scuplt today which was brutal but I
+// went in knowing I'd hang back. I'm excited about all that I've learned. My pysch appointment went well and she presribed
+// me Vyvance finally. I think that will help bring the consistency I need as a rooted foundation to my life. Will
+// help me stay sober and on task and less anxious. Oh well, here's another night I'm using the vape however. We will see
+// how this evolves....
