@@ -95,3 +95,6 @@
 // me Vyvance finally. I think that will help bring the consistency I need as a rooted foundation to my life. Will
 // help me stay sober and on task and less anxious. Oh well, here's another night I'm using the vape however. We will see
 // how this evolves....
+
+// Wed Jun 19
+// Too tired
