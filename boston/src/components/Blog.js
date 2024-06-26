@@ -101,3 +101,10 @@
 
 // Thu Jun 20
 // Another tired day.
+
+// Tue Jun 25
+// Today's been a dousy. My first Marijuana Anoyomous meeting went well. It was a lot more eye opening than I was expecting.
+// All walks of life, small and big, male and female, loving and cold etc. I had to resist the urge to smoke today but I used
+// edible capsules today to help me taper as much as I could. I really should find a meeting for tomorrow. They say 90 meetings in your first 90 days is really the best way to go about it.
+// I feel strong and "in control" but one thing that MA teaches is that you are NOT in control, and that you are the will of a higher force.
+// And you must be able to live with that higher force. I may be taking too many tasks on at once but isnt that what I'm all about? Focused intention?
