@@ -108,3 +108,9 @@
 // edible capsules today to help me taper as much as I could. I really should find a meeting for tomorrow. They say 90 meetings in your first 90 days is really the best way to go about it.
 // I feel strong and "in control" but one thing that MA teaches is that you are NOT in control, and that you are the will of a higher force.
 // And you must be able to live with that higher force. I may be taking too many tasks on at once but isnt that what I'm all about? Focused intention?
+
+// Wed Jun 26
+// Another successful day of no smoking. Lots of mixed intense feelings that are tough to sit with. But the ups and
+// downs are life. Time to get serious and intentive about my goals but also realize I need to slow down.
+
+
