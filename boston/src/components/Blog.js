@@ -113,4 +113,10 @@
 // Another successful day of no smoking. Lots of mixed intense feelings that are tough to sit with. But the ups and
 // downs are life. Time to get serious and intentive about my goals but also realize I need to slow down.
 
+// Thu Jun 27
+// Today was another tough day. I was up super early from the open window due to broken AC.
+// I still havent admitted to MA but ive attended my third session. It's really helpful to hear those difficult stories
+// from those that may have struggled even more than myself.
+// Its crazy to hear from 'normal' people that have the same issue as me. It's quite satisfying to be honest.
+// The human experience requires suffering. Mindfulness says that, therapy says that, buddism says that etc
 
