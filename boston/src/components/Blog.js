@@ -130,3 +130,60 @@
 // distract and numb myself as much as possible at work today. I kept wanting to look at job descriptions etc.
 // I've def had some paranoid thoughts and think it's from marijuana withdrawls. I just need to stay the course and keep to the program
 // and supportive community.
+
+// Sat Jun 29
+// Step 1: Admitting Powerlessness. Write about your experiences with marijuana.
+// When did you first realize it was becoming a problem? How has your life been unmanageable due to your use?
+// I guess the real first time was in college when my highschool friends wanted to hang out but I was so addicted I
+// just wanted to leave and get high. I couldnt socialize, I was antsy, needing to find a high. In was in the Palisades and I remember it well.
+// We were at the Perrs and they really wanted to socialize with all the kids, but I had my own prioirities.
+// I'm still going through the withdrawls so it's hard to fully understand what it did for me. But it was protection, control,
+// deeper intelluctual thinking, but it then lead to paranoia. I was cutting corners in every area if my life to carve out space to
+// get high and chill. One thing the MA host today said that really spoke to was Marijuana has 3 typical stage: magic, medicine, then misery.
+// I'd gotten to the point of misery where I wasnt accomplishing any of my goals anymore and was paranoid I had serious mental health issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Step 2: Believing in a Higher Power
+
+// Reflect on your concept of a higher power. What does it mean to you to believe that a power greater than yourself can restore you to sanity? How can this belief influence your recovery journey?
+// Step 3: Turning Over to a Higher Power
+
+// Consider what it means to turn your will and your life over to the care of your higher power. What challenges do you face in letting go of control? How can you start to trust this process?
+// Step 4: Moral Inventory
+
+// Make a list of your resentments, fears, and other emotional struggles. How have these affected your behavior and your relationships? What patterns do you notice?
+// Step 5: Admitting Wrongs
+
+// Choose one or two items from your moral inventory and write about them in detail. How do you feel about admitting these to yourself, to your higher power, and to another person?
+// Step 6: Readiness for Removal of Defects
+
+// Reflect on your character defects. What are you willing to change about yourself? What fears do you have about these changes?
+// Step 7: Asking for Removal of Defects
+
+// Write a prayer or a letter to your higher power asking for the removal of your shortcomings. How do you feel about asking for help in this way?
+// Step 8: List of Persons Harmed
+
+// Create a list of people you have harmed through your addiction. How have your actions impacted them? How do you feel about making amends?
+// Step 9: Making Amends
+
+// Choose one person from your list and write about how you plan to make amends. What steps will you take? How might this person respond?
+// Step 10: Continued Inventory
+
+// Write about a recent situation where you recognized a character defect in action. How did you handle it? What can you learn from this experience?
+// Step 11: Improving Conscious Contact with Higher Power
+
+// Describe your current practice of prayer and meditation. How does it help you stay connected to your higher power? What changes can you make to improve this practice?
+// Step 12: Carrying the Message
+
+// Reflect on how you can share your recovery experience with others. How can you be of service to those still struggling with addiction? What does it mean to practice these principles in all your affairs?
