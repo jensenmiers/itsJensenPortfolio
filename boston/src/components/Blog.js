@@ -19,18 +19,18 @@
 // Tomorrow ill be sure to remind myself that the interday battle is always there.
 
 // Sat Jun 1
-// Here on my laptop for the 3rd day in the row feeling proud of my routine fitting into my day regardless of activity. 
-// I'm still battling binges and weed cravings, but I know this is a day by day battle I just need to ride the waves of. 
+// Here on my laptop for the 3rd day in the row feeling proud of my routine fitting into my day regardless of activity.
+// I'm still battling binges and weed cravings, but I know this is a day by day battle I just need to ride the waves of.
 // I'm dedicated to React and pursing this through Mimo's beginner foundations and then Code Signal to nail my skills for interviews.
 // This is my personal website that should also have dark mode and this blog tab that also posts when I work out from strava.
 // Accountability and daily check ins empower me. This method is really helpfeul here for just moving the needle brick by brick.
 
 // Sun Jun 2
-// Fantastic date night last night with Madison. We went to Mozza and started the night with a drink at Gigi's. 
+// Fantastic date night last night with Madison. We went to Mozza and started the night with a drink at Gigi's.
 // Just a great intimate night.
-// This morning I'm trying to get a quick workout in before the big day of planning. 
+// This morning I'm trying to get a quick workout in before the big day of planning.
 // Need to bike to Weschester and have an important early morning tomorrow so I better be well rested and prepared.
-// My new boss seems like he enojoys his power. 
+// My new boss seems like he enojoys his power.
 
 // Mon Jun 3
 // Im exhausted. Dont wait to do this. Get your desired tasks done first thing.
@@ -120,3 +120,13 @@
 // Its crazy to hear from 'normal' people that have the same issue as me. It's quite satisfying to be honest.
 // The human experience requires suffering. Mindfulness says that, therapy says that, buddism says that etc
 
+// Fri Jun 28
+// Today is day 4 of my reset and it's quite the rollercoaster of emotions. Conviction, doubt, tireness, energy, motivation, positivity etc.
+// Im dealing with the withdrawls of cannabis. Hi Im Jensen and I am an addict. I have been smoking weed for 10 years now as a security blanket
+// to deal with the inevitable tough emotions that arise from life. I'm doing my best to stay busy so I don't relapse and
+// deal with too many of the withdrawls. I have a new refound focus on switching jobs and am excited about moving into a sales
+// engineering role/environment. I think my next role should probbaly be sales, I need that hungry competitive environment that brinigs out
+// the best in people. Reading Frank's book is probbably a good way to get inside the head of a sales hirer. I really found myself wanting to
+// distract and numb myself as much as possible at work today. I kept wanting to look at job descriptions etc.
+// I've def had some paranoid thoughts and think it's from marijuana withdrawls. I just need to stay the course and keep to the program
+// and supportive community.
