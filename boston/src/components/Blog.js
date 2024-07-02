@@ -142,7 +142,9 @@
 // get high and chill. One thing the MA host today said that really spoke to was Marijuana has 3 typical stage: magic, medicine, then misery.
 // I'd gotten to the point of misery where I wasnt accomplishing any of my goals anymore and was paranoid I had serious mental health issues.
 
-
+// Mon Jul 1
+// Busy life has gotten in the way of my personal routines like journaling, MAing, walking, foam rolling. Finding time like this to put thoughts
+// down in writing is the exact therapy I need to reqire my personal talk.
 
 
 
