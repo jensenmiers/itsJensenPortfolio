@@ -1,4 +1,4 @@
-import emailjs from "emailjs-com";
+import emailjs from '@emailjs/browser';
 import { useState } from "react";
 import SectionTitle from "./SectionTitle";
 
@@ -33,19 +33,20 @@ const Contact = () => {
   };
   const onSubmit = (e) => {
     e.preventDefault();
-    if (
-      name.length === 0 ||
-      email.length === 0 ||
-      message.length === 0
-    ) {
+    if (name.length === 0 || email.length === 0 || message.length === 0) {
       setError(true);
     } else {
       emailjs
         .send(
-          "service_wkygnrg", // service id
-          "template_3yl0ijr", // template id
-          mailData,
-          "PH_Xi0-TzVbJ40EK9" // public api
+          "service_wkygnrg",     // The Service ID from emailjs
+          "template_3yl0ijr",    // The Template ID from emailjs
+          {
+            from_name: name,
+            reply_to: email,
+            message: message,
+            to_name: "Jensen",   // display name for the recipents message via the service
+          },
+          "PH_Xi0-TzVbJ40EK9"      // Public Key from emailjs
         )
         .then(
           (response) => {
@@ -54,12 +55,12 @@ const Contact = () => {
             setTimeout(() => {
               setSuccess(false);
             }, 3000);
-            setMailData({ name: "", email: "", message: ""
-            // , subject: ""
-           });
+            setMailData({ name: "", email: "", message: "" });
           },
           (err) => {
             console.log(err.text);
+            // Optionally add error handling here
+            alert("Something went wrong. Please try again.");
           }
         );
     }

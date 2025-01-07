@@ -1,25 +1,25 @@
 import SectionTitle from "./SectionTitle";
 
 const skillsData = [
-  { id: 1, name: "Javascript", icon: "fab fa-js" },
-  { id: 2, name: "React JS", icon: "fab fa-react" },
-  { id: 3, name: "Angular", icon: "fab fa-angular"},
-  { id: 4, name: "SQL", icon: "fas fa-database" },
-  { id: 5, name: "Ruby on Rails", icon: "fas fa-gem" },
-  { id: 6, name: "Nest.js", icon: "fab fa-node" },
+  { id: 1, name: "JavaScript", icon: "fab fa-js" },
+  { id: 2, name: "React", icon: "fab fa-react" },
+  { id: 3, name: "Next.js", icon: "fab fa-code"},
+  { id: 4, name: "Node.js", icon: "fas fa-node" },
+  { id: 5, name: "SQL", icon: "fas fa-database" },
+  { id: 6, name: "Webflow", icon: "fab fa-window-maximize" },
 ];
 const experiencesData = [
   {
     id: 1,
     date: "Jun 2023 - Present",
-    designation: "Project Manager",
-    company: "StateFilings.com, California",
+    designation: "Data Analyst",
+    company: "Perr & Knight Inc, California",
   },
   {
     id: 2,
     date: "Dec 2022 - Present",
-    designation: "Software Developer",
-    company: "Freelance",
+    designation: "Freelance Software Developer",
+    company: "Startups & Businesses",
   },
   {
     id: 3,

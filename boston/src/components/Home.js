@@ -15,14 +15,11 @@ const Home = () => {
                 <span>Welcome!</span>
               </h4>
               <h1>
-              
               I'm Jensen.
-                
                 <br />
-                
               </h1>
               <p>
-                I develop, manage, and operate all kinds of software.
+                I develop, manage, and operate websites and software.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">
