@@ -59,7 +59,6 @@ const Contact = () => {
           },
           (err) => {
             console.log(err.text);
-            // Optionally add error handling here
             alert("Something went wrong. Please try again.");
           }
         );
