@@ -3,10 +3,10 @@ import SectionTitle from "./SectionTitle";
 const skillsData = [
   { id: 1, name: "JavaScript", icon: "fab fa-js" },
   { id: 2, name: "React", icon: "fab fa-react" },
-  { id: 3, name: "Next.js", icon: "fab fa-code"},
-  { id: 4, name: "Node.js", icon: "fas fa-node" },
+  { id: 3, name: "Next.js", icon: "fas fa-code-branch"},
+  { id: 4, name: "Node.js", icon: "fab fa-node" },
   { id: 5, name: "SQL", icon: "fas fa-database" },
-  { id: 6, name: "Webflow", icon: "fab fa-window-maximize" },
+  { id: 6, name: "Webflow", icon: "fas fa-window-maximize" },
 ];
 const experiencesData = [
   {
@@ -24,7 +24,7 @@ const experiencesData = [
   {
     id: 3,
     date: "Jan 2019 - Dec 2022",
-    designation: "Head of Business Ops",
+    designation: "Head of Business Ops (co-founder)",
     company: "Full Combo Esports, California",
   },
   {

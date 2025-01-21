@@ -3,23 +3,23 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "U.S. National Park Directory",
-    subtitle: "Single page app - ReactJS",
+    title: "U.S. National Parks Site",
+    subtitle: "ReactJS & JSON Server",
     image: "assets/img/nationalparkdirectoryscreenshot.jpeg",
     url: "https://nationalparks-self.vercel.app",
   },
   {
     id: 2,
     title: "PlayBookings.com",
-    subtitle: "",
+    subtitle: "Next.js & TailwindCSS",
     image: "assets/img/project-2.jpg",
     url: "https://playbookings.com",
   },
   {
     id: 3,
     title: "Full Combo Esports",
-    subtitle: "",
-    image: "assets/img/project-1.jpg",
+    subtitle: "Webflow",
+    image: "assets/img/project-3.jpg",
     url: "https://fullcomboesports.com",
   },
   // {

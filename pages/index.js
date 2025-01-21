@@ -30,13 +30,14 @@ const Index = () => {
         <Home />
         {/* End Home Section */}
         {/* Services Section */}
-        <Services />
+        <Portfolio />
+       
         {/* End Services Section */}
         {/* Skill Section */}
         <Skill />
         {/* End Skill Section */}
         {/* Work Section */}
-        <Portfolio />
+        <Services />
         {/* End Work Section */}
         {/* testimonial Section */}
         {/* <Testimonial /> */}

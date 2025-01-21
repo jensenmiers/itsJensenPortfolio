@@ -34,8 +34,8 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link" href="#services">
-                    <span>Services</span>
+                  <a className="nav-link" href="#work">
+                    <span>Portfolio</span>
                   </a>
                 </li>
                 <li>
@@ -44,8 +44,8 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a className="nav-link" href="#work">
-                    <span>Portfolio</span>
+                  <a className="nav-link" href="#services">
+                    <span>Services</span>
                   </a>
                 </li>
                 <li>
