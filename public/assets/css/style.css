@@ -802,6 +802,11 @@ main {
   color: #18171c;
   font-weight: 600;
 }
+body.dark-mode {
+  background-color: #18171c;
+  color: #ffffff;
+}
+
 @media (max-width: 767px) {
   .contact-infos p {
     font-size: 20px;
