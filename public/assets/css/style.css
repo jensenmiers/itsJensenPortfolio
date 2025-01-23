@@ -806,6 +806,24 @@ body.dark-mode {
   background-color: #18171c;
   color: #ffffff;
 }
+body.dark-mode .main-header{
+  background-color: #333;
+  border-bottom-color: #555;
+}
+body.dark-mode .footer {
+  border-top-color: #555;
+  background-color: #333;
+}
+body.dark-mode .px-btn.px-btn-theme {
+  background-color: #444;
+  border-color: #444;
+  color: #fff;
+}
+
+body.dark-mode .px-btn.px-btn-theme:hover {
+  background-color: #222;
+  border-color: #222;
+}
 
 @media (max-width: 767px) {
   .contact-infos p {
