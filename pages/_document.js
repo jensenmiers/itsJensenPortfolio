@@ -23,6 +23,20 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              document.addEventListener('DOMContentLoaded', function() {
+                const toggle = document.getElementById('dark-mode-toggle');
+                if (toggle) {
+                  toggle.addEventListener('change', function() {
+                    document.body.classList.toggle('dark-mode', this.checked);
+                  });
+                }
+              });
+            `,
+          }}
+        />
       </body>
     </Html>
   );
