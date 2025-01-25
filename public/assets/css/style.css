@@ -819,10 +819,23 @@ body.dark-mode .px-btn.px-btn-theme {
   border-color: #444;
   color: #fff;
 }
-
 body.dark-mode .px-btn.px-btn-theme:hover {
   background-color: #222;
   border-color: #222;
+}
+body.dark-mode a {
+  color: #bbb;
+}
+body.dark-mode .navbar-nav > li > .nav-link {
+  color: #fff;
+}
+body.dark-mode .portfolio-box {
+  background: #333;
+  border-color: #555;
+}
+body.dark-mode .contact-form {
+  background: #333;
+  border-color: #555;
 }
 
 .switch {

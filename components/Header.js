@@ -65,9 +65,14 @@ const Header = () => {
           </div>
           {/* / */}
         </div>
+        <label className="switch">
+          <input type="checkbox" id="dark-mode-toggle" />
+          <span className="slider"></span>
+        </label>
         {/* Container */}
       </nav>{" "}
       {/* Navbar */}
+
     </header>
   );
 };
