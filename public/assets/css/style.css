@@ -634,8 +634,7 @@ main {
   object-fit: cover;
 }
 
-/* Portfolio 
----------------------*/
+/* Portfolio ---------------------*/
 .portfolio-box {
   border: 2px solid #18171c;
   background: #fff;
@@ -836,6 +835,41 @@ body.dark-mode .portfolio-box {
 body.dark-mode .contact-form {
   background: #333;
   border-color: #555;
+}
+/* Dark mode specific styles */
+body.dark-mode .home-section .home-intro h1 {
+  color: #ffffff; /* I'm Jensen */
+}
+
+body.dark-mode .portfolio-box .portfolio-info h6 {
+  color: #ffffff; /* Portfolio titles */
+}
+
+body.dark-mode .section-heading h3, /* About Me */
+body.dark-mode .experience-box h3, /* My Experience */
+body.dark-mode .skill-box h3, /* My Technologies */
+body.dark-mode .experience-box h5, /* job titles */
+body.dark-mode .experience-box h6, /* job dates */
+body.dark-mode .feature-box-02 h6 /* Skill titles */ {
+  color: #ffffff;
+}
+
+body.dark-mode .skills-section .skill-border {
+  border-color: #ffffff;
+}
+
+body.dark-mode .services-section h2, /* Services I offer */
+body.dark-mode .contact-section h2, /* Let's Chat, Get in touch */
+body.dark-mode .contact-section .contact-info {
+  color: #ffffff;
+}
+
+body.dark-mode .services-section .service-description {
+  color: #000000;
+}
+
+body.dark-mode .contact-infos p {
+  color: #ffffff;
 }
 
 .switch {
