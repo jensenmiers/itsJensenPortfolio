@@ -128,6 +128,7 @@ Primary use:    pxdraft
 
 .bg-gray {
   background: rgba(247, 175, 36, 0.1);
+
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
@@ -809,6 +810,9 @@ body.dark-mode .main-header{
   background-color: #333;
   border-bottom-color: #555;
 }
+
+
+
 body.dark-mode .footer {
   border-top-color: #555;
   background-color: #333;
@@ -850,20 +854,13 @@ body.dark-mode .experience-box h3, /* My Experience */
 body.dark-mode .skill-box h3, /* My Technologies */
 body.dark-mode .experience-box h5, /* job titles */
 body.dark-mode .experience-box h6, /* job dates */
-body.dark-mode .feature-box-02 h6 /* Skill titles */ {
+body.dark-mode .feature-box-02 h6, /* Skill titles */
+body.dark-mode .contact-form h6, /* Get in touch */
+body.dark-mode .contact-infos p /* Contact info */ {
   color: #ffffff;
 }
 
-body.dark-mode .skills-section .skill-border {
-  border-color: #ffffff;
-}
-
-body.dark-mode .services-section h2, /* Services I offer */
-body.dark-mode .contact-section h2, /* Let's Chat, Get in touch */
-body.dark-mode .contact-section .contact-info {
-  color: #ffffff;
-}
-
+body.dark-mode .feature-box-01 p, /* Service descriptions */
 body.dark-mode .services-section .service-description {
   color: #000000;
 }
