@@ -66,7 +66,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contactus" className="section contactus-section bg-gray">
+    <section id="contactus" className="section contactus-section">
       <div className="container">
         <SectionTitle
           heading={"Let's Chat"}
