@@ -14,7 +14,7 @@ export default function Document() {
         <meta name="keywords" content="Jensen - Software Solutions" />
         <meta name="description" content="Jensen - Software Solutions" />
         {/* title */}
-        <title>Jensen Miers - Software Leader</title>
+        <title>Jensen Miers: Software Founder</title>
         {/* Favicon */}
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
         {/* theme css */}
