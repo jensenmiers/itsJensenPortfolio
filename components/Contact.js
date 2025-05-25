@@ -3,17 +3,17 @@ import { useState } from "react";
 import SectionTitle from "./SectionTitle";
 
 const contactInfo = [
-  { id: 1, label: "Cell", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
+  { id: 1, label: "Call or Text Me", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
   {
     id: 2,
-    label: "Email",
-    value: "work@itsjensen.com",
+    label: "Email Me",
+    value: "hi@itsjensen.com",
     icon: "fas fa-envelope",
   },
   {
     id: 3,
-    label: "Visit My Space",
-    value: "525 Santa Monica Blvd, Santa Monica, CA 90401",
+    label: "Send Me Mail",
+    value: "8605 Santa Monica Blvd, Suite 217970, West Hollywood, California 90069",
     icon: "fas fa-map-marker-alt",
   },
 ];
