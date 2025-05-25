@@ -19,7 +19,7 @@ const experiencesData = [
     id: 2,
     date: "Dec 2022 - Present",
     designation: "Freelance Software Developer",
-    company: "Startups & Businesses",
+    company: "Startups & Business Owners",
   },
   {
     id: 3,

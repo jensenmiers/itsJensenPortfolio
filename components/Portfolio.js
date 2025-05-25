@@ -11,7 +11,7 @@ const portfolioData = [
   {
     id: 2,
     title: "PlayBookings.com",
-    subtitle: "Next.js & TailwindCSS",
+    subtitle: "Next.js & Supabase",
     image: "assets/img/project-2.jpg",
     url: "https://playbookings.com",
   },
