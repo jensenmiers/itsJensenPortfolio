@@ -13,7 +13,7 @@ const contactInfo = [
   {
     id: 3,
     label: "Send Me Mail",
-    value: "8605 Santa Monica Blvd, Suite 217970, West Hollywood, California 90069",
+    value: "8605 Santa Monica Blvd, Suite 217970, Los Angeles, CA 90069",
     icon: "fas fa-map-marker-alt",
   },
 ];
