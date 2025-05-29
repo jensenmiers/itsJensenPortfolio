@@ -20,7 +20,7 @@ export default function Document() {
         {/* theme css */}
         <link href="assets/css/style.css" rel="stylesheet" />
       </Head>
-      <body>
+      <body className="dark-mode">
         <Main />
         <NextScript />
         <script
@@ -29,6 +29,9 @@ export default function Document() {
               document.addEventListener('DOMContentLoaded', function() {
                 const toggle = document.getElementById('dark-mode-toggle');
                 if (toggle) {
+                  // Set toggle to checked since we start in dark mode
+                  toggle.checked = true;
+                  
                   toggle.addEventListener('change', function() {
                     document.body.classList.toggle('dark-mode', this.checked);
                   });

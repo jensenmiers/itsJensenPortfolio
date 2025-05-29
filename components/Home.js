@@ -19,7 +19,7 @@ const Home = () => {
                 <br />
               </h1>
               <p>
-                I develop and manage all kinds of software: web apps, e-commerce sites, data tools—you name it.
+                I develop and manage all kinds of software: web applications, ecommerce sites, and now even some AI agents.
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">
