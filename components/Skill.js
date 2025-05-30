@@ -18,13 +18,13 @@ const experiencesData = [
   {
     id: 2,
     date: "Dec 2022 - Present",
-    designation: "Freelance Software Developer",
+    designation: "Software Developer",
     company: "Startups & Business Owners",
   },
   {
     id: 3,
     date: "Jan 2019 - Dec 2022",
-    designation: "Head of Business Ops (co-founder)",
+    designation: "Business Ops Head",
     company: "Full Combo Esports, California",
   },
   {
@@ -39,7 +39,7 @@ const Skill = () => {
     <section id="skill" className="section experience-section">
       <div className="container">
         <div className="row">
-          <div className="col-lg-6">
+          <div className="col-lg-7">
             <SectionTitle
               heading={"About Me"}
               subHeading={"My Background"}
@@ -52,7 +52,7 @@ const Skill = () => {
               <h3>My Technologies</h3>
               <div className="row g-3">
                 {skillsData.map((skill) => (
-                  <div className="col-6 col-md-4 col-lg-6" key={skill.id}>
+                  <div className="col-6 col-md-4 col-lg-4" key={skill.id}>
                     <div className="feature-box-02">
                       <div className="icon">
                         <i className={skill.icon} />
@@ -64,7 +64,7 @@ const Skill = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-6 col-xl-5 ms-auto pt-5 pt-lg-0">
+          <div className="col-lg-5 pt-5 pt-lg-0">
             <div className="experience-box">
               <h3>My Experience</h3>
               <ul>

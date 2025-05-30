@@ -2,17 +2,23 @@ import { useEffect } from "react";
 import SectionTitle from "./SectionTitle";
 
 const contactInfo = [
-  { id: 1, label: "Call or Text Me", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
+  { id: 1, label: "Cell", value: "+1 310 999 8980", icon: "fas fa-phone-alt" },
   {
     id: 2,
-    label: "Email Me",
+    label: "Email",
     value: "hi@itsjensen.com",
     icon: "fas fa-envelope",
   },
   {
     id: 3,
-    label: "Send Me Mail",
-    value: "8605 Santa Monica Blvd, Suite 217970, Los Angeles, CA 90069",
+    label: "Address",
+    value: (
+      <>
+        8605 Santa Monica Blvd,<br />
+        Suite 217970,<br />
+        Los Angeles, CA 90069
+      </>
+    ),
     icon: "fas fa-map-marker-alt",
   },
 ];
@@ -27,7 +33,9 @@ const Contact = () => {
 
     return () => {
       // Cleanup script on component unmount
-      document.body.removeChild(script);
+      if (document.body.contains(script)) {
+        document.body.removeChild(script);
+      }
     };
   }, []);
 
@@ -38,8 +46,8 @@ const Contact = () => {
           heading={"Let's Chat"}
           subHeading={"Contact"}
         />
-        <div className="row">
-          <div className="col-12 mb-5">
+        <div className="row justify-content-center">
+          <div className="col-lg-8 mb-5">
             <ul className="contact-infos">
               {contactInfo.map((contact) => (
                 <li key={contact.id}>
@@ -54,6 +62,8 @@ const Contact = () => {
               ))}
             </ul>
           </div>
+        </div>
+        <div className="row justify-content-center">
           <div className="col-12">
             <div className="contact-form">
               <h6>Schedule a Meeting</h6>
@@ -61,11 +71,13 @@ const Contact = () => {
                 Book a time that works for you.
               </p>
               {/* Calendly inline widget begin */}
-              <div 
-                className="calendly-inline-widget" 
-                data-url="https://calendly.com/jensenmiers/new-meeting?hide_gdpr_banner=1" 
-                style={{minWidth: '320px', height: '700px'}}
-              ></div>
+              <div className="calendly-container">
+                <div 
+                  className="calendly-inline-widget" 
+                  data-url="https://calendly.com/jensenmiers/new-meeting?hide_gdpr_banner=1" 
+                  style={{minWidth: '320px', height: '700px'}}
+                ></div>
+              </div>
               {/* Calendly inline widget end */}
             </div>
           </div>

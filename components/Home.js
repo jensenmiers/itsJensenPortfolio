@@ -22,8 +22,8 @@ const Home = () => {
                 I develop and manage all kinds of software: web applications, ecommerce sites, and now even some AI agents.
               </p>
               <div className="btn-bar">
-                <a className="px-btn px-btn-theme" href="#contactus">
-                  Let’s Talk
+                <a className="px-btn px-btn-theme2" href="#contactus">
+                  Let's Chat
                 </a>
               </div>
             </div>

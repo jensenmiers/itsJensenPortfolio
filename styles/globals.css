@@ -28,3 +28,13 @@ img.mfp-img {
 .contact-form .form-group .form-control.invalid {
   border-color: #ff0000;
 }
+
+/* X (Twitter) Icon Override */
+.fab.fa-twitter.x-icon {
+  font-family: sans-serif;
+}
+
+.fab.fa-twitter.x-icon::before {
+  content: "𝕏";
+  font-size: 1.2em;
+}

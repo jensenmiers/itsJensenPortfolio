@@ -9,7 +9,7 @@ const Footer = () => {
                 <i className="fab fa-facebook-f" />
               </a> */}
               <a href="https://twitter.com/@jensenmiers">
-                <i className="fab fa-twitter" />
+                <i className="fab fa-twitter x-icon" />
               </a>
               <a href="https://www.instagram.com/jensenmiers/">
                 <i className="fab fa-instagram" />

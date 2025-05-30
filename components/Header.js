@@ -60,7 +60,7 @@ const Header = () => {
           {/* Top Menu */}
           <div className="ms-auto d-none d-lg-block">
             <a className="px-btn px-btn-theme2" href="#contactus">
-              Contact Now
+              Schedule time
             </a>
           </div>
           {/* / */}

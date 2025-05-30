@@ -75,8 +75,11 @@ Primary use:    pxdraft
     position: absolute;
     top: 100%;
     left: 0px;
-    background: #fff;
+    background: #18171c;
     right: 0px;
+  }
+  .main-header .navbar-collapse .navbar-nav > li > .nav-link {
+    color: #fff;
   }
 }
 
@@ -160,7 +163,52 @@ a:hover {
 }
 
 .container {
-  max-width: 1230px;
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Add responsive padding for better spacing */
+main.wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    max-width: 900px;
+  }
+  main.wrapper {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    max-width: 750px;
+  }
+  main.wrapper {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    max-width: 100%;
+  }
+  main.wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  main.wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
 
 /* ----------------------
@@ -493,7 +541,7 @@ main {
 /* experience
 ---------------------*/
 .experience-section .section-heading p {
-  max-width: 500px;
+  max-width: 700px;
 }
 
 .skill-box h3 {
@@ -562,35 +610,36 @@ main {
 }
 .experience-box li h6 {
   margin: 0;
-  font-size: 15px;
+  font-size: 14px;
   color: #18171c;
-  max-width: 200px;
-  -ms-flex: 0 0 200px;
-  flex: 0 0 200px;
+  max-width: 160px;
+  -ms-flex: 0 0 160px;
+  flex: 0 0 160px;
 }
 @media (max-width: 767px) {
   .experience-box li h6 {
-    max-width: 160px;
-    -ms-flex: 0 0 160px;
-    flex: 0 0 160px;
+    max-width: 140px;
+    -ms-flex: 0 0 140px;
+    flex: 0 0 140px;
   }
 }
 .experience-box li .eb-right {
-  max-width: calc(100% - 200px);
-  -ms-flex: 0 0 calc(100% - 200px);
-  flex: 0 0 calc(100% - 200px);
+  max-width: calc(100% - 160px);
+  -ms-flex: 0 0 calc(100% - 160px);
+  flex: 0 0 calc(100% - 160px);
 }
 @media (max-width: 767px) {
   .experience-box li .eb-right {
-    max-width: calc(100% - 160px);
-    -ms-flex: 0 0 calc(100% - 160px);
-    flex: 0 0 calc(100% - 160px);
+    max-width: calc(100% - 140px);
+    -ms-flex: 0 0 calc(100% - 140px);
+    flex: 0 0 calc(100% - 140px);
   }
 }
 .experience-box li .eb-right h5 {
-  font-size: 18px;
+  font-size: 17px;
   color: #18171c;
   margin: 0;
+  line-height: 1.2;
 }
 .experience-box li .eb-right span {
   font-size: 14px;
@@ -730,6 +779,8 @@ main {
   border: 2px solid #18171c;
   padding: 35px;
   background: #fff;
+  max-width: 900px;
+  margin: 0 auto;
 }
 @media (max-width: 767px) {
   .contact-form {
@@ -959,6 +1010,85 @@ input:checked + .slider:before {
   }
 }
 
-/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIiwic2Nzcy9fdmFyaWFibGUuc2NzcyIsInNjc3MvX21peGluLnNjc3MiLCJzY3NzL19oZWFkZXIuc2NzcyIsInNjc3MvX2Zvb3Rlci5zY3NzIiwic2Nzcy9fc3R5bGUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7OztxRUFtQnFFO0FBQ3JFLE9BQU8sQ0FBUCw4Q0FBTztBQUNQLE9BQU8sQ0FBUCxrREFBTztBQUNQLE9BQU8sQ0FBUCxvREFBTztBQUNQLE9BQU8sQ0FBUCwwQ0FBTztBQUNQLE9BQU8sQ0FBUCwyQ0FBTztBQ3hCUCxPQUFPLENBQUMsd0lBQUk7QUVBWixBQUFBLFlBQVksQ0FBQztFQUNULFFBQVEsRUFBRSxLQUFLO0VBQ2YsR0FBRyxFQUFFLENBQUM7RUFDTixJQUFJLEVBQUUsQ0FBQztFQUNQLEtBQUssRUFBRSxDQUFDO0VBQ1IsT0FBTyxFQUFFLEVBQUU7RUFDWCxhQUFhLEVBQUUsR0FBRyxDQUFDLEtBQUssQ0ZEaEIsT0FBTztFRUVmLFVBQVUsRUZBRCxJQUFJLEdFeUJoQjtFQWhDRCxBQVFJLFlBUlEsQ0FRUixPQUFPLENBQUM7SUFDSixPQUFPLEVBQUUsTUFBTSxHQUNsQjtFQVZMLEFBYVksWUFiQSxDQVdSLFdBQVcsR0FDTCxFQUFFLEdBQ0UsU0FBUyxDQUFDO0lBQ1IsT0FBTyxFQUFFLEtBQUs7SUFDZCxXQUFXLEVBQUUsSUFBSTtJQUNqQixXQUFXLEVBQUUsR0FBRztJQUNoQixjQUFjLEVBQUUsU0FBUztJQUN6QixTQUFTLEVBQUUsSUFBSTtJQUNmLEtBQUssRUZkVCxPQUFPLEdFd0JOO0lBN0JiLEFBb0JnQixZQXBCSixDQVdSLFdBQVcsR0FDTCxFQUFFLEdBQ0UsU0FBUyxDQU9QLElBQUksQ0FBQztNQUNELE9BQU8sRUFBRSxRQUFRO01BQ2pCLGFBQWEsRUFBRSxJQUFJLEdBQ3RCO0lBdkJqQixBQXlCb0IsWUF6QlIsQ0FXUixX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 */
+/* Calendly widget styling */
+.calendly-container {
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 1200px) {
+  .calendly-container {
+    max-width: 650px;
+  }
+  
+  .contact-form {
+    max-width: 800px;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .calendly-container {
+    max-width: 100%;
+  }
+  
+  .contact-form {
+    max-width: 100%;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .calendly-container {
+    max-width: 100%;
+    margin: 0 -10px;
+  }
+  
+  .contact-form {
+    padding: 25px;
+  }
+  
+  .calendly-inline-widget {
+    height: 600px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .calendly-inline-widget {
+    height: 550px !important;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIiwic2Nzcy9fdmFyaWFibGUuc2NzcyIsInNjc3MvX21peGluLnNjc3MiLCJzY3NzL19oZWFkZXIuc2NzcyIsInNjc3MvX2Zvb3Rlci5zY3NzIiwic2Nzcy9fc3R5bGUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7OztxRUFtQnFFO0FBQ3JFLE9BQU8sQ0FBUCw4Q0FBTztBQUNQLE9BQU8sQ0FBUCxrREFBTztBQUNQLE9BQU8sQ0FBUCxvREFBTztBQUNQLE9BQU8sQ0FBUCwwQ0FBTztBQUNQLE9BQU8sQ0FBUCwyQ0FBTztBQ3hCUCxPQUFPLENBQUMsd0lBQUk7QUVBWixBQUFBLFlBQVksQ0FBQztFQUNULFFBQVEsRUFBRSxLQUFLO0VBQ2YsR0FBRyxFQUFFLENBQUM7RUFDTixJQUFJLEVBQUUsQ0FBQztFQUNQLEtBQUssRUFBRSxDQUFDO0VBQ1IsT0FBTyxFQUFFLEVBQUU7RUFDWCxhQUFhLEVBQUUsR0FBRyxDQUFDLEtBQUssQ0ZEaEIsT0FBTztFRUVmLFVBQVUsRUZBRCxJQUFJLEdFeUJoQjtFQWhDRCxBQVFJLFlBUlEsQ0FRUixPQUFPLENBQUM7SUFDSixPQUFPLEVBQUUsTUFBTSxHQUNsQjtFQVZMLEFBYVksWUFiQSxDQVdSLFdBQVcsR0FDTCxFQUFFLEdBQ0UsU0FBUyxDQUFDO0lBQ1IsT0FBTyxFQUFFLEtBQUs7SUFDZCxXQUFXLEVBQUUsSUFBSTtJQUNqQixXQUFXLEVBQUUsR0FBRztJQUNoQixjQUFjLEVBQUUsU0FBUztJQUN6QixTQUFTLEVBQUUsSUFBSTtJQUNmLEtBQUssRUZkVCxPQUFPLEdFd0JOO0lBN0JiLEFBb0JnQixZQXBCSixDQVdSLFdBQVcsR0FDTCxFQUFFLEdBQ0UsU0FBUyxDQU9QLElBQUksQ0FBQztNQUNELE9BQU8sRUFBRSxRQUFRO01BQ2pCLGFBQWEsRUFBRSxJQUFJLEdBQ3RCO0lBdkJqQixBQXlCb0IsWUF6QlIsQ0FXUixX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 */
 
 /*# sourceMappingURL=style.css.map */
+
+/* Custom improvements for About Me section */
+.experience-section .section-heading h3 {
+  white-space: nowrap;
+  overflow: visible;
+}
+
+.experience-section .section-heading p {
+  max-width: 700px; /* Increased from 500px for better readability */
+}
+
+@media (max-width: 767px) {
+  .experience-section .section-heading h3 {
+    white-space: normal; /* Allow wrapping on mobile */
+    font-size: 35px; /* Slightly smaller on mobile to prevent wrapping */
+  }
+  
+  .experience-section .section-heading p {
+    max-width: 100%; /* Full width on mobile */
+  }
+}
+
+@media (max-width: 576px) {
+  .experience-section .section-heading h3 {
+    font-size: 30px; /* Even smaller on very small screens */
+  }
+}
