@@ -791,12 +791,14 @@ main {
   font-size: 32px;
   font-weight: 600;
   color: #18171c;
-  margin: 0 0 5px;
+  margin: 30px 0 15px;
+  padding: 0 20px;
 }
 .contact-form .lead {
   font-weight: 400;
   font-size: 18px;
-  margin: 0 0 30px;
+  margin: 0 0 40px;
+  padding: 0 20px;
 }
 .contact-form .form-control {
   border-radius: 0;
@@ -1019,6 +1021,12 @@ input:checked + .slider:before {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* Ensure Calendly widget responsive behavior */
+.calendly-inline-widget {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
 @media (max-width: 1200px) {
   .calendly-container {
     max-width: 650px;
@@ -1044,11 +1052,22 @@ input:checked + .slider:before {
 @media (max-width: 767px) {
   .calendly-container {
     max-width: 100%;
-    margin: 0 -10px;
+    margin: 0;
   }
   
   .contact-form {
-    padding: 25px;
+    padding: 25px 10px;
+  }
+  
+  .contact-form h6 {
+    margin: 20px 0 10px;
+    padding: 0 15px;
+    font-size: 28px;
+  }
+  
+  .contact-form .lead {
+    padding: 0 15px;
+    margin: 0 0 35px;
   }
   
   .calendly-inline-widget {
@@ -1057,6 +1076,22 @@ input:checked + .slider:before {
 }
 
 @media (max-width: 576px) {
+  .contact-form {
+    padding: 20px 5px;
+  }
+  
+  .contact-form h6 {
+    margin: 15px 0 8px;
+    padding: 0 10px;
+    font-size: 24px;
+  }
+  
+  .contact-form .lead {
+    padding: 0 10px;
+    margin: 0 0 30px;
+    font-size: 16px;
+  }
+  
   .calendly-inline-widget {
     height: 550px !important;
   }
