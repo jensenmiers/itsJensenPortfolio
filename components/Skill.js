@@ -11,27 +11,27 @@ const skillsData = [
 const experiencesData = [
   {
     id: 1,
-    date: "Jun 2023 - Present",
+    date: "2023 - Present",
     designation: "Data Analyst",
     company: "Perr & Knight Inc, California",
   },
   {
     id: 2,
-    date: "Dec 2022 - Present",
+    date: "2022 - Present",
     designation: "Software Developer",
     company: "Startups & Business Owners",
   },
   {
     id: 3,
-    date: "Jan 2019 - Dec 2022",
-    designation: "Business Ops Head",
-    company: "Full Combo Esports, California",
+    date: "2019 - 2022",
+    designation: "Head of Business & Ops",
+    company: "Full Combo Gaming, California",
   },
   {
     id: 4,
-    date: "Aug 2017 - Jan 2019",
+    date: "2017 - 2019",
     designation: "Business Analyst",
-    company: "Cognizant, New York",
+    company: "Cognizant Inc, New York",
   },
 ];
 const Skill = () => {
