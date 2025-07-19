@@ -14,9 +14,8 @@ const contactInfo = [
     label: "Address",
     value: (
       <>
-        8605 Santa Monica Blvd,<br />
-        Suite 217970,<br />
-        Los Angeles, CA 90069
+        838 N Las Palmas Ave,<br />
+        Los Angeles, CA 90038
       </>
     ),
     icon: "fas fa-map-marker-alt",
