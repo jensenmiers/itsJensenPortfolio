@@ -1,12 +1,12 @@
 import SectionTitle from "./SectionTitle";
 
 const skillsData = [
-  { id: 1, name: "JavaScript", icon: "fab fa-js" },
-  { id: 2, name: "React", icon: "fab fa-react" },
-  { id: 3, name: "Next.js", icon: "fas fa-code-branch"},
-  { id: 4, name: "Node.js", icon: "fab fa-node" },
-  { id: 5, name: "SQL", icon: "fas fa-database" },
-  { id: 6, name: "Webflow", icon: "fas fa-window-maximize" },
+  // { id: 1, name: "JavaScript", icon: "fab fa-js" },
+  // { id: 2, name: "React", icon: "fab fa-react" },
+  // { id: 3, name: "Next.js", icon: "fas fa-code-branch"},
+  // { id: 4, name: "Node.js", icon: "fab fa-node" },
+  // { id: 5, name: "SQL", icon: "fas fa-database" },
+  // { id: 6, name: "Webflow", icon: "fas fa-window-maximize" },
 ];
 const experiencesData = [
   {
@@ -36,7 +36,7 @@ const experiencesData = [
 ];
 const Skill = () => {
   return (
-    <section id="skill" className="section experience-section">
+    <section id="skill" className="section experience-section bg-gray">
       <div className="container">
         <div className="row">
           <div className="col-lg-7">
@@ -44,11 +44,11 @@ const Skill = () => {
               heading={"About Me"}
               subHeading={"My Background"}
               text={
-                "I design and develop software with my foundational business background. I live and breathe technology & business."
+                "I design and develop software with my foundational business background. I studied business in college at Boston University before realizing my passion for building, and the power technology has to solve problems. Now I'm living and breathing both technology AND business."
               }
             />
 
-            <div className="skill-box">
+            {/* <div className="skill-box">
               <h3>My Technologies</h3>
               <div className="row g-3">
                 {skillsData.map((skill) => (
@@ -62,7 +62,7 @@ const Skill = () => {
                   </div>
                 ))}
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="col-lg-5 pt-5 pt-lg-0">
             <div className="experience-box">

@@ -280,11 +280,19 @@ main {
     border: 2px solid $px-dark;
     box-shadow: 0 0 0 0 $px-dark;
     transition: ease all 0.35s;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     @include down-sm {
         padding: 30px;
     }
     &:hover {
         box-shadow: 5px 5px 0 0 $px-dark;
+    }
+    .feature-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
     }
     .number {
         font-size: 55px;
@@ -306,6 +314,7 @@ main {
     }
     p {
         margin: 0;
+        flex: 1;
     }
     .icon {
         margin-top: 25px;

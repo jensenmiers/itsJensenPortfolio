@@ -39,7 +39,7 @@ const Contact = () => {
   }, []);
 
   return (
-    <section id="contactus" className="section contactus-section">
+    <section id="contactus" className="section contactus-section bg-gray">
       <div className="container">
         <SectionTitle
           heading={"Let's Chat"}
@@ -75,6 +75,14 @@ const Contact = () => {
                   className="calendly-inline-widget" 
                   data-url="https://calendly.com/jensenmiers/new-meeting?hide_gdpr_banner=1" 
                   style={{minWidth: '350px', height: '700px'}}
+                ></div>
+              </div>
+              {/* Mobile Calendly widget (hidden on desktop) */}
+              <div className="calendly-mobile">
+                <div 
+                  className="calendly-inline-widget" 
+                  data-url="https://calendly.com/jensenmiers/new-meeting?hide_gdpr_banner=1" 
+                  style={{minWidth: '100%', height: '70vh'}}
                 ></div>
               </div>
               {/* Calendly inline widget end */}

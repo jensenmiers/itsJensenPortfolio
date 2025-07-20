@@ -33,11 +33,11 @@ const Header = () => {
                     <span>Home</span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a className="nav-link" href="#work">
                     <span>Portfolio</span>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a className="nav-link" href="#skill">
                     <span>Skills</span>

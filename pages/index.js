@@ -2,7 +2,7 @@ import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Home from "@/components/Home";
-import Portfolio from "@/components/Portfolio";
+// import Portfolio from "@/components/Portfolio";
 import Services from "@/components/Services";
 import Skill from "@/components/Skill";
 // import Testimonial from "@/src/components/Testimonial";
@@ -29,10 +29,9 @@ const Index = () => {
         {/* Home Section */}
         <Home />
         {/* End Home Section */}
-        {/* Services Section */}
-        <Portfolio />
-       
-        {/* End Services Section */}
+        {/* Portfolio Section - Commented out for future use */}
+        {/* <Portfolio /> */}
+        {/* End Portfolio Section */}
         {/* Skill Section */}
         <Skill />
         {/* End Skill Section */}
